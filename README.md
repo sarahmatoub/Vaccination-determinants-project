@@ -21,6 +21,6 @@ Repository Root
 |-- .gitignore
 |-- README.md
 |-- Vaccination determinants.Rproj
+```
 
-
-BLABLA TEST
+Before testing this code from the repository, please make sure that you are in the **`Vaccination determinants`** project directory.
