@@ -30,4 +30,22 @@ educ = read.csv(file = "sect2_harvestw4.csv",
 
 # Banking and savings
 
+savings = read.csv("sect4a1_plantingw4.csv")
+
 # Insurance (if they have any)
+
+#Mobile phone and internet
+phone = read.csv("sect4b_plantingw4.csv")
+
+#Extension services
+services = read.csv("sect11l1_plantingw4.csv")
+
+#Livestock
+livestock1 = read.csv("sect11i_plantingw4.csv")
+livestock2 = read.csv("sect11j_plantingw4.csv")
+livestock3 = read.csv("sect11k1_plantingw4.csv")
+livestock4 = read.csv("sect11k2_plantingw4.csv")
+
+
+
+
